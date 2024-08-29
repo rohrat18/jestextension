@@ -9,6 +9,10 @@
   "categories": [
     "Snippets"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohrat18/jestextension.git"
+  },
   "contributes": {
     "snippets": [
       {
