@@ -2,7 +2,7 @@
   "name": "jestextension",
   "displayName": "JestExtension",
   "description": "Jest Extension for LWC testing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -19,6 +19,10 @@
       {
         "language": "",
         "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "",
+        "path": "./snippets/task.code-snippets"
       }
     ]
   }
